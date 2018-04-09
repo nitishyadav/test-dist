@@ -6,7 +6,7 @@ pipeline {
 
     stage('Build Service Container') {
       steps {
-      docker build -t inmbzp7148.in.dst.ibm.com:5000/hcp-dist-test:sandbox .
+      #docker build -t inmbzp7148.in.dst.ibm.com:5000/hcp-dist-test:sandbox .
       sh "docker build -t inmbzp7148.in.dst.ibm.com:5000/hcp-dist-test:sandbox ."
       }
     }
