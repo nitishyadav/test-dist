@@ -1,0 +1,235 @@
+[
+    {
+        "mwcAdminCatAvMrc": [
+            {
+                "categoryName": "Bronze",
+                "availability": "99.5%",
+                "mrc": "60.00",
+                "guid": "5c092f07-84fb-4f64-8257-7f264263ef87"
+            },
+            {
+                "categoryName": "Gold",
+                "availability": "99.95%",
+                "mrc": "110.00",
+                "guid": "c518a9f3-fc6f-4973-825a-addb90ce499b"
+            },
+            {
+                "categoryName": "Silver",
+                "availability": "99.90%",
+                "mrc": "85.00",
+                "guid": "7effad32-9ae8-4a62-8bf1-6e41de970514"
+            }
+        ],
+        "mwcAdminsoc": [
+            {
+                "socName": "No",
+                "socValue": "1.00",
+                "guid": "449447f7-d2ad-4c1f-b876-8d9f90653ea5"
+            },
+            {
+                "socName": "Yes",
+                "socValue": "0.50",
+                "guid": "5db53b87-9232-4c17-9d7c-2274011a36f3"
+            }
+        ],
+        "mrcAdminConfiguration": [{
+        "defaultSelected": "Silver",
+        "configValues":
+        [
+            {
+                "supportedHrs": "16*5",
+                "value": "1.00",
+                "guid": "1478247f-1894-47ae-8233-b65723639b53"
+            },
+            {
+                "supportedHrs": "24*7",
+                "value": "1.20",
+                "guid": "9070856b-c4ba-4303-a72f-9dd1b5359015"
+
+            },
+            {
+                "supportedHrs": "8*5",
+                "value": "0.80",
+                "guid": "9e9d01d8-9557-4184-959d-c2bc2fc77df6"
+
+            }]
+        }],
+        "mwcAdminSuppHrs": [
+            {
+                "supportedHrs": "16*5",
+                "value": "1.00",
+                "guid": "1478247f-1894-47ae-8233-b65723639b53",
+                "defaultSelected": true
+            },
+            {
+                "supportedHrs": "24*7",
+                "value": "1.20",
+                "guid": "9070856b-c4ba-4303-a72f-9dd1b5359015",
+                "defaultSelected": false
+            },
+            {
+                "supportedHrs": "8*5",
+                "value": "0.80",
+                "guid": "9e9d01d8-9557-4184-959d-c2bc2fc77df6",
+                "defaultSelected": false
+            }
+        ],
+        "mwcAdminConfigDet": [
+            {
+                "noOfVm": "0",
+                "defaultHours": "0",
+                "sixteenHoursFiveDaysValue": "0.00",
+                "eightHoursFiveDaysValue": "0.00",
+                "twentyFourHoursSevenDaysValue": "0.00",
+                "guid": "57a6cdd5-a96b-4c38-aebd-62fdcc84d764",
+                "checked":false,
+                "isNew":null
+            },
+            {
+                "noOfVm": "8",
+                "defaultHours": "6",
+                "sixteenHoursFiveDaysValue": "7.20",
+                "eightHoursFiveDaysValue": "4.80",
+                "twentyFourHoursSevenDaysValue": "7.20",
+                "guid": "4298270a-3c75-4306-ba87-0a818acd838c",
+                "checked":false,
+                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "15",
+                "defaultHours": "12",
+                "sixteenHoursFiveDaysValue": "14.40",
+                "eightHoursFiveDaysValue": "9.60",
+                "twentyFourHoursSevenDaysValue": "14.40",
+                "guid": "403c3223-1169-446a-a306-9d9de4441dd0",
+                "checked":false,
+                 "isNew":null
+
+
+            },
+            {
+                "noOfVm": "25",
+                "defaultHours": "20",
+                "sixteenHoursFiveDaysValue": "24.00",
+                "eightHoursFiveDaysValue": "16.00",
+                "twentyFourHoursSevenDaysValue": "24.00",
+                "guid": "dbd6d5ad-73a0-44b8-b8ef-1b585771d251",
+                "checked":false,
+                 "isNew":null
+
+
+            },
+            {
+                "noOfVm": "50",
+                "defaultHours": "35",
+                "sixteenHoursFiveDaysValue": "42.00",
+                "eightHoursFiveDaysValue": "28.00",
+                "twentyFourHoursSevenDaysValue": "42.00",
+                "guid": "3a5b635e-581c-4a22-b651-9d4bed616b8e",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "75",
+                "defaultHours": "50",
+                "sixteenHoursFiveDaysValue": "60.00",
+                "eightHoursFiveDaysValue": "40.00",
+                "twentyFourHoursSevenDaysValue": "60.00",
+                "guid": "99601653-9525-4032-bcf7-a572a773f9db",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "100",
+                "defaultHours": "65",
+                "sixteenHoursFiveDaysValue": "78.00",
+                "eightHoursFiveDaysValue": "52.00",
+                "twentyFourHoursSevenDaysValue": "78.00",
+                "guid": "6ff3aa50-483d-43b1-8fee-96af516c3808",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "200",
+                "defaultHours": "130",
+                "sixteenHoursFiveDaysValue": "156.00",
+                "eightHoursFiveDaysValue": "104.00",
+                "twentyFourHoursSevenDaysValue": "156.00",
+                "guid": "1c5e7d2e-4c5c-4b95-8351-b093f65cf94d",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "300",
+                "defaultHours": "195",
+                "sixteenHoursFiveDaysValue": "234.00",
+                "eightHoursFiveDaysValue": "156.00",
+                "twentyFourHoursSevenDaysValue": "234.00",
+                "guid": "e4f3c090-adc0-40b8-a0b8-be5915f65ac3",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "400",
+                "defaultHours": "260",
+                "sixteenHoursFiveDaysValue": "312.00",
+                "eightHoursFiveDaysValue": "208.00",
+                "twentyFourHoursSevenDaysValue": "312.00",
+                "guid": "11f137e8-615b-4f17-9460-86e327c8ce19",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "500",
+                "defaultHours": "325",
+                "sixteenHoursFiveDaysValue": "390.00",
+                "eightHoursFiveDaysValue": "260.00",
+                "twentyFourHoursSevenDaysValue": "390.00",
+                "guid": "18e733df-f711-444a-b287-356eef818c9d",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "1000",
+                "defaultHours": "500",
+                "sixteenHoursFiveDaysValue": "600.00",
+                "eightHoursFiveDaysValue": "400.00",
+                "twentyFourHoursSevenDaysValue": "600.00",
+                "guid": "df0940fd-aa15-4578-90a5-ee4a3dcabc8e",
+                "checked":false,
+                                "isNew":null
+
+
+            },
+            {
+                "noOfVm": "1001",
+                "defaultHours": "500.5",
+                "sixteenHoursFiveDaysValue": "null",
+                "eightHoursFiveDaysValue": "400.4 ",
+                "twentyFourHoursSevenDaysValue": "600.6",
+
+                "guid": "74ae51da-6de5-4939-bbf9-bf877063b683",
+                "checked":false,
+                                "isNew":null
+
+
+            }
+        ]
+    }
+] 

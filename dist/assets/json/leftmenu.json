@@ -1,0 +1,36 @@
+{
+	"catalogmenu": [{
+			"name": "Cost Estimator",
+			"sub": [{
+				"name": "Middleware",
+				"routerlink": "/catalog/middleware/catalogmenu"
+			}]
+		},
+		{
+			
+			"sub": [{
+					"name": "Estimates",
+					"routerlink": "/catalog/opportunities/catalogmenu"
+				}
+				
+			]
+		}
+	],
+	"adminmenu": [{
+		"name": "Costing",
+		"sub": [{
+			"name": "Middleware",
+			"routerlink": "/admin/middleware/adminmenu"
+		}]
+	},
+	{
+			
+			"sub": [{
+					"name": "SOC",
+					"routerlink": "/admin/soc/adminmenu"
+				}
+				
+			]
+		}
+    ]
+}
